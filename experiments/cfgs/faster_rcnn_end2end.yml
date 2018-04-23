@@ -12,4 +12,4 @@ TRAIN:
   # FG_FRACTION: 2.0
 TEST:
   HAS_RPN: True
-MODELS_DIR: /media/chaitanya/DATADRIVE0/datasets/rcnn_training/APC
+MODELS_DIR: /media/chaitanya/DATADRIVE0/datasets/rcnn_training/LINEMOD
